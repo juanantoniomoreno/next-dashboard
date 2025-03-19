@@ -22,7 +22,7 @@
     "tailwindcss": "3.4.17",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2",
-    "use-debounce": "^10.0.4",
+    "use-debounce": "10.0.4",
     "zod": "^3.24.1"
   },
   "devDependencies": {
